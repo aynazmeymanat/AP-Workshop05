@@ -2,7 +2,7 @@
  * calculating oprand
  * @author Mohammad Yarahmadi
  * @author yarahmadi0077@aut.ac.ir
- * @version 1.0.2
+ * @version 1.0.3
  * @since 2024/04/20
  */
 public class AutMath {
